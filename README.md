@@ -13,10 +13,10 @@
 *   支持通过 Cloudflare Workers 或 Pages 部署到 GitHub。
 
 ## 部署
-  **Cloudflare Workers (推荐)**:
+  **Cloudflare Workers**:
 
-    *   在 Cloudflare Workers 中连接到你的 GitHub 仓库，并进行配置。
-    *   配置 Workers 路由，使其能够处理你的自定义域名的请求。
+*   在 Cloudflare Workers 中连接到你的 GitHub 仓库，并进行配置。
+*   配置 Workers 路由，使其能够处理你的自定义域名的请求。
 
 ## 致谢
 
