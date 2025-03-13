@@ -20,7 +20,7 @@
 
 ## 致谢
 
-*   [tmdb-proxy](https://github.com/imaliang/tmdb-proxy) 和 Google Gemini
+[tmdb-proxy](https://github.com/imaliang/tmdb-proxy) 、Google Gemini
 
 ## 免责声明
 
