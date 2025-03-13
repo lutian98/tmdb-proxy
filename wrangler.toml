@@ -1,0 +1,8 @@
+    name = "tmdb-proxy" # 将 "your-worker-name" 替换为你的 Worker 的名称
+    main = "worker.js"  # 将 "combined_worker.js" 替换为你的 Worker 脚本的文件名
+    compatibility_date = "2025-03-13" # 使用一个有效的日期
+
+    [build]
+    command = "" # 如果不需要构建步骤，留空
+    [build.upload]
+    format = "service-worker"
